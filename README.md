@@ -14,7 +14,7 @@ Welcome to the GitHub Clone repository for beginners! In this project, we will c
 
 ## Full source code & tutorial
 
-If you're looking for the full code, you can find it [here](https://dgicode.store). Additionally, if you prefer video tutorials, you can watch the step-by-step guide on my YouTube channel ➡️ [Code with Aarzoo](https://www.youtube.com/@codewithaarzoo).
+If you're looking for the full code, you can find it here ➡️ [click here](https://dgicode.store). Additionally, if you prefer video tutorials, you can watch the step-by-step guide on my YouTube channel ➡️ [Code with Aarzoo](https://www.youtube.com/@codewithaarzoo).
 
 ## Getting Started
 
