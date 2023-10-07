@@ -88,3 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for checking out this GitHub Clone project! Happy coding! 😊
 
 ## Preview
+![GitHub Clone Using HTML CSS and JS](https://github.com/Aarzoo75/GitHub-Clone/assets/59678435/71cc9713-b3ab-49b2-82ed-01d98765ac5f)
