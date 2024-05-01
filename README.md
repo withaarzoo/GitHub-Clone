@@ -2,7 +2,7 @@
 
 Welcome to the GitHub Clone repository for beginners! In this project, we will create a simplified version of the GitHub website using HTML, CSS, and JavaScript. This is a great project to get started with web development and learn the basics of building a web application.
 
-If you're looking for the full source code, you can find it here ➡️ [click here](https://www.patreon.com/codewithaarzoo/shop/dynamic-github-clone-28433?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link).
+If you're looking for the full source code, you can find it here ➡️ [click here](https://rb.gy/h501pf).
 Additionally, if you prefer video tutorials, you can watch the step-by-step guide on my YouTube channel. ➡️ [Code with Aarzoo](https://youtu.be/jtIrT8LYp5Y?si=BdhntLKF-vtJdoyH).
 
 ## Table of Contents
